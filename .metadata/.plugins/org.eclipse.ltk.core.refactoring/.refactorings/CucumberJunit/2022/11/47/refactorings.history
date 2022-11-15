@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 7 elements from project &apos;CucumberJunit&apos;&#x0D;&#x0A;- Original project: &apos;CucumberJunit&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     formatter.js&#x0D;&#x0A;     index.html&#x0D;&#x0A;     jquery-3.4.1.min.js&#x0D;&#x0A;     notabene.xml&#x0D;&#x0A;     output.json&#x0D;&#x0A;     report.js&#x0D;&#x0A;     style.css" description="Delete elements" element1="target/style.css" element2="target/notabene.xml" element3="target/output.json" element4="target/formatter.js" element5="target/jquery-3.4.1.min.js" element6="target/index.html" element7="target/report.js" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="7" stamp="1668417743305" subPackages="false" version="1.0"/>
+</session>
