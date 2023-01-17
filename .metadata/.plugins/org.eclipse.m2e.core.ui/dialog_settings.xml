@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\DCKLP-060\eclipse-workspace2\CucumberJunit"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,11 +44,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.demo"/>
+			<item value="com.cucumber"/>
 			<item value="com.gp"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Demo_MavenProject"/>
+			<item value="Demo"/>
 			<item value="CucumberJunit"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -1,2 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.cucumber.junit.CucumberOptions.SnippetType"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.When"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+    <fullyQualifiedTypeName name="com.pojo.LoginPage"/>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="io.opencensus.common.Duration"/>
+    <fullyQualifiedTypeName name="java.awt.datatransfer.StringSelection"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="com.pojo.Search_Project"/>
+    <fullyQualifiedTypeName name="com.pojo.Update_Project"/>
+    <fullyQualifiedTypeName name="com.pojo.Search_Project2"/>
+    <fullyQualifiedTypeName name="java.awt.Desktop.Action"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Action"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.datatransfer.DataFlavor"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+    <fullyQualifiedTypeName name="com.pojo.Order"/>
+    <fullyQualifiedTypeName name="com.pojo.Field_Builder"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="com.pojo.Add_Project"/>
+    <fullyQualifiedTypeName name="com.pojo.LogoutPage"/>
+    <fullyQualifiedTypeName name="com.pojo.Add_Project2"/>
+    <fullyQualifiedTypeName name="com.pojo.Archive_Project"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkIcons"/>
+    <fullyQualifiedTypeName name="java.awt.Robot"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.SendKeysAction"/>
+    <fullyQualifiedTypeName name="com.stepdefinition.NoRuleSingleFlow"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkTextfield"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkLink"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkDragAndDrop"/>
+    <fullyQualifiedTypeName name="java.awt.datatransfer.Clipboard"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkUpload"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkTab"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkCheckBox"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkHover"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkChldObjs"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkPopups"/>
+    <fullyQualifiedTypeName name="com.pojo.ClkUrl"/>
+    <fullyQualifiedTypeName name="com.pojo.ChkNewTab"/>
+</qualifiedTypeNameHistroy>
